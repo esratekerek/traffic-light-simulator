@@ -5,7 +5,7 @@ public class IntersectionModel {
     private TrafficLight northLight,southLight,westLight,eastLight;
 
     public IntersectionModel(VehicleData vehicleData) {
-        this.vehicleData = vehicleData;  // Üye değişken 'vehicleData' atanıyor.
+        this.vehicleData = vehicleData;  // 'vehicleData' atanıyor.
 
         // Doğru yönleriyle trafik ışıklarını başlatıyoruz:
         this.northLight = new TrafficLight("North");
