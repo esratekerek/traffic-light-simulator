@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="traffic-light-simulator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/traffic-light-simulator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
